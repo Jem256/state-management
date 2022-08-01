@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { render } from 'react-dom';
 
-import './styles.scss';
+import './styles.css';
 
 class Counter extends Component {
   render() {
